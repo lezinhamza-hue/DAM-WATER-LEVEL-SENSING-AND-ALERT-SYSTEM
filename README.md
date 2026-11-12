@@ -38,3 +38,11 @@ Para facilitar a identificação de possíveis situações de risco, podemos uti
 - **Emergência (80% a 100%):** o sistema aciona o alarme sonoro.
 
 Essas porcentagens são exemplos didáticos e não representam limites oficiais de segurança. Os valores reais devem ser definidos por critérios técnicos.
+
+## Referências
+
+Projeto utilizado como referência: [Dam Water Level Sensing and Alert System](https://github.com/lezinhamza-hue/DAM-WATER-LEVEL-SENSING-AND-ALERT-SYSTEM).
+
+Também utilizei minha cópia (Fork): [Meu Fork](https://github.com/sobre334/DAM-WATER-LEVEL-SENSING-AND-ALERT-SYSTEM).
+
+A principal ideia aproveitada foi a classificação dos níveis de água em diferentes situações de risco: Normal, Atenção, Alerta e Emergência. Essa organização ajuda a identificar situações perigosas e apresentar avisos de forma mais clara.
