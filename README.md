@@ -27,3 +27,14 @@ A tela LCD mostra os resultados, enquanto o buzzer é acionado quando o nível a
 ## Objetivo
 
 Ajudar no monitoramento de barragens, facilitando a identificação de níveis perigosos de água e contribuindo para a prevenção de enchentes.
+
+## Classificação dos Níveis de Água
+
+Para facilitar a identificação de possíveis situações de risco, podemos utilizar quatro níveis de classificação:
+
+- **Normal (0% a 49%):** nível dentro da faixa considerada normal no exemplo.
+- **Atenção (50% a 69%):** é necessário acompanhar o nível da água.
+- **Alerta (70% a 79%):** o nível está elevado e exige maior atenção.
+- **Emergência (80% a 100%):** o sistema aciona o alarme sonoro.
+
+Essas porcentagens são exemplos didáticos e não representam limites oficiais de segurança. Os valores reais devem ser definidos por critérios técnicos.
